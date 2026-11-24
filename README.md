@@ -5,13 +5,21 @@
 </a>
 
 <p align="center">
-  <em>Data Science Undergraduate passionate about Applied ML, MLOps, & Interactive Data Storytelling.</em>
+  <em>Data Science Student @ Telkom University Surabaya • Python, SQL, Tableau & Machine Learning</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/clairineanargya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:clairineanargya14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://born-below-the-future-sea.vercel.app/"><img src="https://img.shields.io/badge/Featured_Project-Born_Below_The_Sea-0ea5e9?style=flat-square" alt="Demo" /></a>
+  <a href="https://www.linkedin.com/in/clairine-anargya-athallah-6915b6331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:clairineanargya14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://born-below-the-future-sea.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Born%20Below%20The%20Sea-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 </div>
