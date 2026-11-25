@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <a href="https://github.com/Clairineanr">
-  <img src="./assets/profile-scan.svg" alt="Clairine Anargya Athallah System Profile Scan" width="100%" />
+  <img src="./assets/profile-scan.svg" alt="Clairine Anargya Athallah - System Profile Scan" width="100%" />
 </a>
 
 <br><br>
@@ -25,11 +25,21 @@
 ---
 
 ### 💡 About Me
-I'm an **Undergraduate Sains Data (Data Science) Student** at **Telkom University Surabaya**, passionate about transforming complex tabular, text, and unstructured data into actionable intelligence and predictive models. My focus revolves around **Machine Learning engineering**, **Natural Language Processing (NLP)**, and building end-to-end data pipelines.
+I'm an **Undergraduate Sains Data (Data Science) Student** at **Telkom University Surabaya**, passionate about transforming complex tabular, text, and unstructured data into actionable intelligence and predictive models. My focus revolves around **Applied Machine Learning**, **Natural Language Processing (NLP)**, and building end-to-end data pipelines.
 
 ---
 
-### 🛠️ Technology Stack & Tools
+### 📊 Telemetry & Activity Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Clairineanr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=04121d&title_color=38bdf8&icon_color=2dd4bf&text_color=e2e8f0" alt="Clairine's GitHub Stats" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clairineanr&layout=compact&theme=tokyonight&hide_border=true&bg_color=04121d&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 🛠️ Technology Stack & Frameworks
 
 | Area | Technologies & Frameworks |
 | :--- | :--- |
