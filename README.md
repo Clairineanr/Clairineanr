@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/clairine-anargya-athallah-6915b6331/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="34" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:clairineanargya14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="./assets/btn-email.svg" alt="Email" height="34" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Clairineanr?tab=repositories">
-    <img src="https://img.shields.io/badge/Public_Repositories-16-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="./assets/btn-projects.svg" alt="Projects" height="34" />
   </a>
 </p>
 
@@ -30,10 +30,6 @@ I'm an **Undergraduate Sains Data (Data Science) Student** at **Telkom Universit
 ---
 
 ### 🛠️ Technology Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,php,mysql,postgres,git,github,vscode&perline=9" alt="Skills: Python, R, Java, PHP, MySQL, PostgreSQL, Git, GitHub, VSCode" />
-</p>
 
 | Area | Technologies & Frameworks |
 | :--- | :--- |
