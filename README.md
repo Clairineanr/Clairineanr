@@ -1,7 +1,11 @@
 ﻿<div align="center">
 
-<a href="https://github.com/Clairineanr">
-  <img src="./assets/profile-scan.svg" alt="Clairine Anargya Athallah - System Profile Scan" width="100%" />
+<a href="https://clairineanr.github.io/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-scan-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-scan-light.svg">
+    <img src="./assets/profile-scan-dark.svg" alt="Clairine Anargya Athallah - System Profile Scan" width="100%" />
+  </picture>
 </a>
 
 <br><br>
@@ -36,9 +40,9 @@ I'm an **Undergraduate Sains Data (Data Science) Student** at **Telkom Universit
 ### 📊 Telemetry & Activity Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clairineanr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=04121d&title_color=38bdf8&icon_color=2dd4bf&text_color=e2e8f0" alt="Clairine's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Clairineanr&show_icons=true&theme=github_dark" alt="Clairine's GitHub Stats" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clairineanr&layout=compact&theme=tokyonight&hide_border=true&bg_color=04121d&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clairineanr&layout=compact&theme=github_dark" alt="Top Languages" height="150" />
 </p>
 
 ---
