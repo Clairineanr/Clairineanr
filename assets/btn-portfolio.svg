@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145" height="36" viewBox="0 0 145 36" role="img" aria-label="Portfolio">
+  <rect x="1" y="1" width="143" height="34" rx="6" fill="#04121d" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.2" />
+  <g transform="translate(12, 8) scale(0.85)">
+    <path fill="#38BDF8" d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm7.93 9h-3.18a15.77 15.77 0 0 0-1.39-5.12A8.02 8.02 0 0 1 19.93 11zM12 4.07a14 14 0 0 1 1.83 6.93H10.17A14 14 0 0 1 12 4.07zM4.07 13h3.18a15.77 15.77 0 0 0 1.39 5.12A8.02 8.02 0 0 1 4.07 13zm3.18-2H4.07a8.02 8.02 0 0 1 4.57-5.12A15.77 15.77 0 0 0 7.25 11zm4.75 8.93a14 14 0 0 1-1.83-6.93h3.66a14 14 0 0 1-1.83 6.93zm2.64-1.81A15.77 15.77 0 0 0 16.75 13h3.18a8.02 8.02 0 0 1-4.57 5.12z"/>
+  </g>
+  <text x="40" y="23" font-family="ui-monospace, 'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#E0F2FE" letter-spacing="0.5">Portfolio ↗</text>
+</svg>

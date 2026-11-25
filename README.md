@@ -7,6 +7,10 @@
 <br><br>
 
 <p align="center">
+  <a href="https://clairineanr.github.io/" target="_blank">
+    <img src="./assets/btn-portfolio.svg" alt="Portfolio Website" height="34" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/clairine-anargya-athallah-6915b6331/" target="_blank">
     <img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="34" />
   </a>
