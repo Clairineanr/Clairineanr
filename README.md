@@ -2,97 +2,65 @@
 
 <a href="https://clairineanr.github.io/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-scan-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-scan-light.svg">
-    <img src="./assets/profile-scan-dark.svg" alt="Clairine Anargya Athallah - System Profile Scan" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+    <img src="./assets/banner-light.svg" alt="Clairine Anargya Athallah - Data Science Portfolio Banner" width="100%" />
   </picture>
 </a>
 
-<br><br>
+<br /><br />
 
 <p align="center">
   <a href="https://clairineanr.github.io/" target="_blank">
-    <img src="./assets/btn-portfolio.svg" alt="Portfolio Website" height="34" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/btn-portfolio-light.svg" />
+      <img src="./assets/btn-portfolio-light.svg" alt="Portfolio Website" height="36" />
+    </picture>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/clairine-anargya-athallah-6915b6331/" target="_blank">
-    <img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="34" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/clairineanargya" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg" />
+      <img src="./assets/btn-linkedin-light.svg" alt="LinkedIn" height="36" />
+    </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:clairineanargya14@gmail.com">
-    <img src="./assets/btn-email.svg" alt="Email" height="34" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/btn-email-light.svg" />
+      <img src="./assets/btn-email-light.svg" alt="Email" height="36" />
+    </picture>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Clairineanr?tab=repositories">
-    <img src="./assets/btn-projects.svg" alt="Projects" height="34" />
+  &nbsp;
+  <a href="https://github.com/Clairineanr?tab=repositories" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-repos-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/btn-repos-light.svg" />
+      <img src="./assets/btn-repos-light.svg" alt="Repositories" height="36" />
+    </picture>
   </a>
 </p>
 
 </div>
 
----
+Undergraduate Data Science student at Telkom University Surabaya (Class of 2024) focusing on applied machine learning, natural language processing, and data governance (DAMA-DMBOK). I build reproducible analytical notebooks, FastAPI inference services, and interactive data visualizations.
 
-### 💡 About Me
-I'm an **Undergraduate Sains Data (Data Science) Student** at **Telkom University Surabaya**, passionate about transforming complex tabular, text, and unstructured data into actionable intelligence and predictive models. My focus revolves around **Applied Machine Learning**, **Natural Language Processing (NLP)**, and building end-to-end data pipelines.
+## Selected Work
 
----
+| Project | Domain | Summary & Stack |
+| :--- | :--- | :--- |
+| [Born Below the Future Sea](https://github.com/Clairineanr/born-below-the-future-sea) ([Live](https://born-below-the-future-sea.vercel.app/)) | Climate Scrollytelling | Visualizes 31 years (1993-2024) of Pacific Island satellite altimetry data · `TypeScript`, `Vercel` |
+| [Smart-Mustahik](https://github.com/Clairineanr/smart-mustahik) | Decision Support | Random Forest classifier on East Java BPS data (87.50% accuracy), SERI-FEST 2026 paper · `Python`, `Scikit-Learn`, `Pytest` |
+| [FastAPI House Price Predictor](https://github.com/Clairineanr/fastapi-house-price-predictor) | ML Inference API | REST endpoint with Pydantic v2 schema validation and regression artifacts · `FastAPI`, `Pydantic`, `Pytest` |
+| [MLP vs Random Forest](https://github.com/Clairineanr/mlp-vs-random-forest-breast-cancer) | Clinical Classification | Breast Cancer Wisconsin benchmark with SMOTE evaluation (97.08% accuracy) · `Python`, `Scikit-Learn`, `Pytest` |
+| [Fuel Efficiency Regression](https://github.com/Clairineanr/multiple-linear-regression-for-fuel-efficiency-analysis) | Econometric Modeling | Auto MPG OLS regression (`R² = 0.818`) with VIF and residual diagnostics · `Python`, `Statsmodels`, `Pytest` |
 
-### 📊 Telemetry & Activity Stats
+## Stack & Credentials
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clairineanr&show_icons=true&theme=github_dark" alt="Clairine's GitHub Stats" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clairineanr&layout=compact&theme=github_dark" alt="Top Languages" height="150" />
-</p>
-
----
-
-### 🛠️ Technology Stack & Frameworks
-
-| Area | Technologies & Frameworks |
-| :--- | :--- |
-| **Data Science & ML** | Python, Scikit-Learn, Pandas, NumPy, Statsmodels, Matplotlib, Seaborn |
-| **Databases & Querying** | PostgreSQL, MySQL, Relational Database Modeling (DDL/DML) |
-| **Software Engineering** | Java (OOP), PHP, Object-Oriented Design, Version Control (Git/GitHub) |
-| **Mathematical Foundations**| Linear Algebra, Probability & Statistics, Multicollinearity Diagnostics |
-
----
-
-### 🚀 Selected Repositories & Highlights
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Clairineanr/mlp-vs-random-forest-breast-cancer">🎗️ MLP vs Random Forest Breast Cancer Classification</a></h4>
-      <p>Benchmark study evaluating Multi-Layer Perceptron (Neural Network) against Random Forest on clinical diagnostic data with Hyperparameter Tuning (GridSearchCV).</p>
-      <p><b>Highlights:</b> Achieved 97.4% test accuracy, comprehensive ROC-AUC evaluation, and confusion matrix diagnostics.</p>
-      <p><code>Python</code> · <code>Scikit-Learn</code> · <code>Pandas</code> · <code>Machine Learning</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Clairineanr/multiple-linear-regression-for-fuel-efficiency-analysis">🚗 Fuel Efficiency Regression Modeling</a></h4>
-      <p>Econometric and statistical modeling of vehicle fuel efficiency (MPG) using Multiple Linear Regression with classical assumption diagnostics.</p>
-      <p><b>Highlights:</b> Rigorous multicollinearity checking via VIF, residual normality validation, and feature significance testing.</p>
-      <p><code>Python</code> · <code>Statsmodels</code> · <code>Data Analysis</code> · <code>EDA</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Clairineanr/cic-music-player">🎵 CiC Music Player</a></h4>
-      <p>Desktop audio player application engineered with Python, Tkinter GUI, and Pygame sound engine featuring playlist management and playback controls.</p>
-      <p><b>Highlights:</b> Modular architecture, asset bundling, and Windows executable packaging.</p>
-      <p><code>Python</code> · <code>Tkinter</code> · <code>Pygame</code> · <code>Desktop App</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Clairineanr">📊 Sentiment Analysis Folkative (Naïve Bayes)</a></h4>
-      <p>NLP sentiment classification on public social media discussions analyzing positive, neutral, and negative public sentiment distributions.</p>
-      <p><b>Highlights:</b> Complete text preprocessing pipeline (stopword removal, stemming, TF-IDF vectorization).</p>
-      <p><code>Python</code> · <code>NLP</code> · <code>Naïve Bayes</code> · <code>Text Mining</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <i>"Transforming data into insight, building intelligence with purpose."</i>
-</p>
+- **ML & Analytics:** Python, Scikit-Learn, TensorFlow, AutoKeras, Pandas, NumPy, Statsmodels
+- **Data & BI:** SQL (PostgreSQL, MySQL), PySpark, GeoPandas, Looker Studio, DAMA-DMBOK
+- **Web & Engineering:** FastAPI, Pydantic v2, TypeScript, Pytest, Git, GitHub Pages
+- **Papers & Certifications:** SERI-FEST 2026 KTIQ (IPB University), Gayatama 5 ISEC (UNESA), Huawei ICT Academy AI (2026), Inixindo Smart Data Governance (DAMA-DMBOK, 2026)

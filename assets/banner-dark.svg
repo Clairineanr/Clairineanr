@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-label="Clairine Anargya Athallah - Data Science Portfolio Banner (Dark)">
+  <defs>
+    <linearGradient id="curveFillDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Card -->
+  <rect x="1" y="1" width="958" height="278" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5" />
+
+  <!-- Left Column: Identity & Focus -->
+  <text x="44" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#60A5FA">S1 Sains Data · Telkom University Surabaya</text>
+
+  <text x="44" y="102" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#F0F6FC">Clairine Anargya Athallah</text>
+
+  <text x="44" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#94A3B8">Applied Machine Learning, Natural Language Processing,</text>
+  <text x="44" y="161" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#94A3B8">and structured Data Governance (DAMA-DMBOK).</text>
+
+  <line x1="44" y1="194" x2="570" y2="194" stroke="#30363D" stroke-width="1" />
+
+  <!-- Domain Focus Chips -->
+  <rect x="44" y="214" width="142" height="30" rx="6" fill="#161B22" stroke="#3B82F6" stroke-width="1" />
+  <text x="115" y="233.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#93C5FD">ML &amp; AutoML</text>
+
+  <rect x="198" y="214" width="184" height="30" rx="6" fill="#161B22" stroke="#3B82F6" stroke-width="1" />
+  <text x="290" y="233.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#93C5FD">Climate &amp; BI Storytelling</text>
+
+  <rect x="394" y="214" width="136" height="30" rx="6" fill="#161B22" stroke="#3B82F6" stroke-width="1" />
+  <text x="462" y="233.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#93C5FD">FastAPI Services</text>
+
+  <!-- Right Column: Editorial Trajectory & Rosette Motif -->
+  <rect x="604" y="28" width="320" height="224" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1" />
+
+  <text x="626" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" fill="#94A3B8">SURABAYA, ID</text>
+  <text x="902" y="54" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" fill="#60A5FA">@Clairineanr</text>
+
+  <!-- Portfolio-inspired Geometric Rosette Motif -->
+  <g transform="translate(866, 108)" fill="none" stroke="#1D4ED8" stroke-width="1.1">
+    <circle cx="0" cy="0" r="28" />
+    <circle cx="0" cy="0" r="20" stroke-dasharray="3 3" />
+    <ellipse cx="0" cy="0" rx="28" ry="11" transform="rotate(0)" />
+    <ellipse cx="0" cy="0" rx="28" ry="11" transform="rotate(60)" />
+    <ellipse cx="0" cy="0" rx="28" ry="11" transform="rotate(120)" />
+  </g>
+
+  <!-- Analytical Baselines -->
+  <line x1="626" y1="116" x2="902" y2="116" stroke="#21262D" stroke-width="1" stroke-dasharray="3 4" />
+  <line x1="626" y1="158" x2="902" y2="158" stroke="#21262D" stroke-width="1" stroke-dasharray="3 4" />
+  <line x1="626" y1="200" x2="902" y2="200" stroke="#30363D" stroke-width="1" />
+
+  <!-- Data Curve & Area -->
+  <path d="M 632 192 C 686 186, 728 152, 774 144 C 818 136, 856 106, 896 88 L 896 200 L 632 200 Z" fill="url(#curveFillDark)" />
+  <path d="M 632 192 C 686 186, 728 152, 774 144 C 818 136, 856 106, 896 88" fill="none" stroke="#60A5FA" stroke-width="2.5" stroke-linecap="round" />
+
+  <!-- Data Nodes -->
+  <circle cx="632" cy="192" r="4" fill="#161B22" stroke="#60A5FA" stroke-width="2" />
+  <circle cx="774" cy="144" r="4" fill="#161B22" stroke="#60A5FA" stroke-width="2" />
+  <circle cx="896" cy="88" r="4.5" fill="#60A5FA" stroke="#0D1117" stroke-width="1.5" />
+
+  <!-- Card Footer -->
+  <line x1="626" y1="218" x2="902" y2="218" stroke="#21262D" stroke-width="1" />
+  <text x="626" y="237" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500" fill="#94A3B8">clairineanr.github.io</text>
+  <text x="902" y="237" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" fill="#60A5FA">github.com/Clairineanr</text>
+</svg>
